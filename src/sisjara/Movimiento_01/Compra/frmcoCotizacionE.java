@@ -86,8 +86,6 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
         jButton11 = new javax.swing.JButton();
         jButton12 = new javax.swing.JButton();
         jButton13 = new javax.swing.JButton();
-        dateChooserCombo1 = new datechooser.beans.DateChooserCombo();
-        dateChooserCombo2 = new datechooser.beans.DateChooserCombo();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("MANTEMIENTO DE COTIZACION");
@@ -389,8 +387,6 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
 
         jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/lupa.png"))); // NOI18N
         jPanel5.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 220, 23, 20));
-        jPanel5.add(dateChooserCombo1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 100, -1, -1));
-        jPanel5.add(dateChooserCombo2, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 130, -1, -1));
 
         getContentPane().add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 870, 290));
 
@@ -441,8 +437,6 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private datechooser.beans.DateChooserCombo dateChooserCombo1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo2;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton11;

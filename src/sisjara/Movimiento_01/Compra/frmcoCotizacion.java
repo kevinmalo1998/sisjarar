@@ -28,13 +28,6 @@ public class frmcoCotizacion extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jCalendarBeanInfo1 = new com.toedter.calendar.JCalendarBeanInfo();
-        jDateChooserBeanInfo1 = new com.toedter.calendar.JDateChooserBeanInfo();
-        activeTestSuite1 = new junit.extensions.ActiveTestSuite();
-        jCalendarBeanInfo2 = new com.toedter.calendar.JCalendarBeanInfo();
-        jCalendarDemo1 = new com.toedter.calendar.demo.JCalendarDemo();
-        jCalendarTheme1 = new com.toedter.plaf.JCalendarTheme();
-        dateChooserDialog1 = new datechooser.beans.DateChooserDialog();
         jLabel1 = new javax.swing.JLabel();
         filler1 = new javax.swing.Box.Filler(new java.awt.Dimension(0, 0), new java.awt.Dimension(0, 0), new java.awt.Dimension(32767, 32767));
         jScrollPane1 = new javax.swing.JScrollPane();
@@ -61,22 +54,9 @@ public class frmcoCotizacion extends javax.swing.JFrame {
         jTextField2 = new javax.swing.JTextField();
         jButton8 = new javax.swing.JButton();
         jComboBox1 = new javax.swing.JComboBox<>();
-        dateChooserCombo1 = new datechooser.beans.DateChooserCombo();
         jLabel4 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
-        dateChooserCombo3 = new datechooser.beans.DateChooserCombo();
         jPanel3 = new javax.swing.JPanel();
-
-        javax.swing.GroupLayout jCalendarDemo1Layout = new javax.swing.GroupLayout(jCalendarDemo1.getContentPane());
-        jCalendarDemo1.getContentPane().setLayout(jCalendarDemo1Layout);
-        jCalendarDemo1Layout.setHorizontalGroup(
-            jCalendarDemo1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
-        );
-        jCalendarDemo1Layout.setVerticalGroup(
-            jCalendarDemo1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
-        );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Mantenimiento de Cotizacion");
@@ -212,7 +192,6 @@ public class frmcoCotizacion extends javax.swing.JFrame {
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(294, 46, 156, -1));
-        jPanel2.add(dateChooserCombo1, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 50, 109, -1));
 
         jLabel4.setFont(new java.awt.Font("Comic Sans MS", 0, 14)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(240, 240, 240));
@@ -223,7 +202,6 @@ public class frmcoCotizacion extends javax.swing.JFrame {
         jLabel2.setForeground(new java.awt.Color(240, 240, 240));
         jLabel2.setText("F.Hasra");
         jPanel2.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 50, -1, -1));
-        jPanel2.add(dateChooserCombo3, new org.netbeans.lib.awtextra.AbsoluteConstraints(83, 11, 109, -1));
 
         getContentPane().add(jPanel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 760, 80));
 
@@ -290,10 +268,6 @@ public class frmcoCotizacion extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private junit.extensions.ActiveTestSuite activeTestSuite1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo3;
-    private datechooser.beans.DateChooserDialog dateChooserDialog1;
     private javax.swing.Box.Filler filler1;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
@@ -304,13 +278,8 @@ public class frmcoCotizacion extends javax.swing.JFrame {
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
-    private com.toedter.calendar.JCalendarBeanInfo jCalendarBeanInfo1;
-    private com.toedter.calendar.JCalendarBeanInfo jCalendarBeanInfo2;
-    private com.toedter.calendar.demo.JCalendarDemo jCalendarDemo1;
-    private com.toedter.plaf.JCalendarTheme jCalendarTheme1;
     private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JComboBox<String> jComboBox2;
-    private com.toedter.calendar.JDateChooserBeanInfo jDateChooserBeanInfo1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;

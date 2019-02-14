@@ -75,7 +75,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
         jLabel22 = new javax.swing.JLabel();
         jLabel23 = new javax.swing.JLabel();
         jCheckBox1 = new javax.swing.JCheckBox();
-        dateChooserCombo1 = new datechooser.beans.DateChooserCombo();
         jLabel24 = new javax.swing.JLabel();
         jSpinner1 = new javax.swing.JSpinner();
         jButton10 = new javax.swing.JButton();
@@ -334,7 +333,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
         jCheckBox1.setForeground(new java.awt.Color(153, 0, 0));
         jCheckBox1.setText("Actualizar Precio");
         jPanel1.add(jCheckBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 60, -1, -1));
-        jPanel1.add(dateChooserCombo1, new org.netbeans.lib.awtextra.AbsoluteConstraints(480, 60, 100, -1));
 
         jLabel24.setForeground(new java.awt.Color(0, 102, 255));
         jLabel24.setText("PRECIO REGISTRADO(...)");
@@ -1035,7 +1033,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.ButtonGroup buttonGroup1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo1;
     private javax.swing.JButton jButton10;
     private javax.swing.JButton jButton11;
     private javax.swing.JButton jButton12;
@@ -1101,7 +1098,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel10;
     private javax.swing.JPanel jPanel11;
     private javax.swing.JPanel jPanel12;
-    private javax.swing.JPanel jPanel13;
     private javax.swing.JPanel jPanel14;
     private javax.swing.JPanel jPanel15;
     private javax.swing.JPanel jPanel16;

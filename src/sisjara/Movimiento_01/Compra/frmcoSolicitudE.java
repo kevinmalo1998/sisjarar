@@ -52,8 +52,6 @@ public class frmcoSolicitudE extends javax.swing.JFrame {
         jLabel12 = new javax.swing.JLabel();
         jPanel15 = new javax.swing.JPanel();
         jLabel14 = new javax.swing.JLabel();
-        dateChooserCombo1 = new datechooser.beans.DateChooserCombo();
-        dateChooserCombo2 = new datechooser.beans.DateChooserCombo();
         jComboBox1 = new javax.swing.JComboBox<>();
         jComboBox2 = new javax.swing.JComboBox<>();
         jComboBox3 = new javax.swing.JComboBox<>();
@@ -315,8 +313,6 @@ public class frmcoSolicitudE extends javax.swing.JFrame {
         );
 
         jPanel4.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 220, 130, -1));
-        jPanel4.add(dateChooserCombo1, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 20, 125, -1));
-        jPanel4.add(dateChooserCombo2, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 80, 125, -1));
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel4.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(130, 50, 155, -1));
@@ -523,8 +519,6 @@ public class frmcoSolicitudE extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private datechooser.beans.DateChooserCombo dateChooserCombo1;
-    private datechooser.beans.DateChooserCombo dateChooserCombo2;
     private javax.swing.JButton jButton1;
     private javax.swing.JButton jButton2;
     private javax.swing.JButton jButton3;
