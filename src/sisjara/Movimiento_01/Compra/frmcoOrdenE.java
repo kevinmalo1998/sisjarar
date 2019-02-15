@@ -92,6 +92,7 @@ public class frmcoOrdenE extends javax.swing.JFrame {
         jButton11 = new javax.swing.JButton();
         jButton12 = new javax.swing.JButton();
         jButton13 = new javax.swing.JButton();
+        jDateChooser1 = new com.toedter.calendar.JDateChooser();
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -503,7 +504,6 @@ public class frmcoOrdenE extends javax.swing.JFrame {
         jTextField10.setEditable(false);
         jPanel1.add(jTextField10, new org.netbeans.lib.awtextra.AbsoluteConstraints(95, 156, 691, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(95, 104, 177, -1));
 
         jLabel14.setFont(new java.awt.Font("Tahoma", 1, 12)); // NOI18N
@@ -536,10 +536,8 @@ public class frmcoOrdenE extends javax.swing.JFrame {
         jTextField12.setEditable(false);
         jPanel1.add(jTextField12, new org.netbeans.lib.awtextra.AbsoluteConstraints(557, 68, 184, -1));
 
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(557, 96, 105, -1));
 
-        jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(557, 37, 184, -1));
 
         jTextField13.setBackground(new java.awt.Color(51, 153, 255));
@@ -564,6 +562,7 @@ public class frmcoOrdenE extends javax.swing.JFrame {
 
         jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/view00.png"))); // NOI18N
         jPanel1.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(453, 49, 20, 20));
+        jPanel1.add(jDateChooser1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 80, 120, -1));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -637,6 +636,7 @@ public class frmcoOrdenE extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JComboBox<String> jComboBox2;
     private javax.swing.JComboBox<String> jComboBox3;
+    private com.toedter.calendar.JDateChooser jDateChooser1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;

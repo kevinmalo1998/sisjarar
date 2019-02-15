@@ -62,6 +62,9 @@ public class frmcoDocumentoE extends javax.swing.JFrame {
         jLabel16 = new javax.swing.JLabel();
         jButton13 = new javax.swing.JButton();
         jComboBox6 = new javax.swing.JComboBox<>();
+        jDateChooser1 = new com.toedter.calendar.JDateChooser();
+        jDateChooser2 = new com.toedter.calendar.JDateChooser();
+        jDateChooser3 = new com.toedter.calendar.JDateChooser();
         jPanel4 = new javax.swing.JPanel();
         jScrollPane3 = new javax.swing.JScrollPane();
         jTextArea3 = new javax.swing.JTextArea();
@@ -205,13 +208,10 @@ public class frmcoDocumentoE extends javax.swing.JFrame {
         jLabel15.setText("TC Especial");
         jPanel2.add(jLabel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(589, 129, -1, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(122, 21, 160, -1));
 
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(122, 90, 77, -1));
 
-        jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 150, 77, -1));
         jPanel2.add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(122, 59, 104, -1));
         jPanel2.add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(392, 115, 116, -1));
@@ -233,7 +233,6 @@ public class frmcoDocumentoE extends javax.swing.JFrame {
         jButton12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/lupa.png"))); // NOI18N
         jPanel2.add(jButton12, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 10, 23, 20));
 
-        jComboBox5.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox5, new org.netbeans.lib.awtextra.AbsoluteConstraints(653, 88, 106, -1));
 
         jLabel16.setBackground(new java.awt.Color(51, 153, 255));
@@ -243,8 +242,10 @@ public class frmcoDocumentoE extends javax.swing.JFrame {
         jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/lupa.png"))); // NOI18N
         jPanel2.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 10, 23, 20));
 
-        jComboBox6.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox6, new org.netbeans.lib.awtextra.AbsoluteConstraints(122, 121, 77, -1));
+        jPanel2.add(jDateChooser1, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 10, 120, -1));
+        jPanel2.add(jDateChooser2, new org.netbeans.lib.awtextra.AbsoluteConstraints(390, 50, 120, -1));
+        jPanel2.add(jDateChooser3, new org.netbeans.lib.awtextra.AbsoluteConstraints(400, 80, 110, -1));
 
         jPanel4.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(153, 153, 153), 1, true));
 
@@ -668,6 +669,9 @@ public class frmcoDocumentoE extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> jComboBox3;
     private javax.swing.JComboBox<String> jComboBox5;
     private javax.swing.JComboBox<String> jComboBox6;
+    private com.toedter.calendar.JDateChooser jDateChooser1;
+    private com.toedter.calendar.JDateChooser jDateChooser2;
+    private com.toedter.calendar.JDateChooser jDateChooser3;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;

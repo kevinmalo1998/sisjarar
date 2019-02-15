@@ -76,6 +76,7 @@ public class frmcoDocumentoNE extends javax.swing.JFrame {
         jPanel3 = new javax.swing.JPanel();
         jButton7 = new javax.swing.JButton();
         jButton8 = new javax.swing.JButton();
+        jDateChooser1 = new com.toedter.calendar.JDateChooser();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("MANTENIMIENTO DE NOTA DE COMPRA");
@@ -236,12 +237,10 @@ public class frmcoDocumentoNE extends javax.swing.JFrame {
         jLabel6.setText("TC Especial");
         jPanel2.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 150, -1, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 30, 149, -1));
         jPanel2.add(jTextField9, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 60, 127, -1));
         jPanel2.add(jTextField10, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 150, 92, -1));
 
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 120, 127, -1));
 
         jPanel6.setBackground(new java.awt.Color(51, 153, 255));
@@ -347,6 +346,7 @@ public class frmcoDocumentoNE extends javax.swing.JFrame {
         );
 
         jPanel2.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 607, 860, -1));
+        jPanel2.add(jDateChooser1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 90, 120, -1));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -427,6 +427,7 @@ public class frmcoDocumentoNE extends javax.swing.JFrame {
     private javax.swing.JButton jButton8;
     private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JComboBox<String> jComboBox2;
+    private com.toedter.calendar.JDateChooser jDateChooser1;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel17;

@@ -267,13 +267,10 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
         jPanel1.add(jTextField11, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 260, 100, -1));
         jPanel1.add(jTextField12, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 410, 60, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 380, 140, -1));
 
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 340, 140, -1));
 
-        jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel1.add(jComboBox3, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 300, 140, -1));
 
         jLabel15.setFont(new java.awt.Font("Tahoma", 0, 13)); // NOI18N
@@ -484,8 +481,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
                 jTextField15ActionPerformed(evt);
             }
         });
-
-        jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
 
         jLabel31.setForeground(new java.awt.Color(255, 0, 0));
         jLabel31.setText("Kg");
@@ -794,8 +789,6 @@ public class frmcoDocumentoEP extends javax.swing.JFrame {
 
         buttonGroup1.add(jRadioButton2);
         jRadioButton2.setText("CIF");
-
-        jComboBox5.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
 
         jLabel45.setForeground(new java.awt.Color(255, 0, 0));
         jLabel45.setText("Kg");

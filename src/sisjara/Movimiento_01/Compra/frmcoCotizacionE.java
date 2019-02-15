@@ -86,6 +86,8 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
         jButton11 = new javax.swing.JButton();
         jButton12 = new javax.swing.JButton();
         jButton13 = new javax.swing.JButton();
+        jDateChooser1 = new com.toedter.calendar.JDateChooser();
+        jDateChooser2 = new com.toedter.calendar.JDateChooser();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("MANTEMIENTO DE COTIZACION");
@@ -284,7 +286,6 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
         jLabel1.setText("Requerimiento");
         jPanel5.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 30, -1, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel5.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 160, 190, -1));
         jPanel5.add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 60, 170, -1));
         jPanel5.add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 140, 60, -1));
@@ -353,7 +354,6 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
         jPanel5.add(jTextField8, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 220, 550, -1));
         jPanel5.add(jTextField6, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 20, 100, -1));
 
-        jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel5.add(jComboBox2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 60, 220, -1));
 
         jLabel17.setFont(new java.awt.Font("Comic Sans MS", 0, 14)); // NOI18N
@@ -387,6 +387,8 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
 
         jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/lupa.png"))); // NOI18N
         jPanel5.add(jButton13, new org.netbeans.lib.awtextra.AbsoluteConstraints(700, 220, 23, 20));
+        jPanel5.add(jDateChooser1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 100, 170, -1));
+        jPanel5.add(jDateChooser2, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 130, 170, -1));
 
         getContentPane().add(jPanel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 870, 290));
 
@@ -452,6 +454,8 @@ public class frmcoCotizacionE extends javax.swing.JFrame {
     private javax.swing.JButton jButton9;
     private javax.swing.JComboBox<String> jComboBox1;
     private javax.swing.JComboBox<String> jComboBox2;
+    private com.toedter.calendar.JDateChooser jDateChooser1;
+    private com.toedter.calendar.JDateChooser jDateChooser2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;

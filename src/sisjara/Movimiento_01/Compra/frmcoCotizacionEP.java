@@ -130,7 +130,6 @@ public class frmcoCotizacionEP extends javax.swing.JFrame {
         jButton9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sisjara/Icons/lupa.png"))); // NOI18N
         getContentPane().add(jButton9, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 40, 30, 30));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         getContentPane().add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(180, 160, 160, -1));
 
         jLabel10.setForeground(new java.awt.Color(255, 0, 0));
