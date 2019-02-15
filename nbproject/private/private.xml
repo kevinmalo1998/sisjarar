@@ -2,38 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveControlE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoOrdenE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoRequerimiento.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveCotizacionE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveControlEP.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Seguimiento/frmveDocumentoESE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoSolicitudE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Seguimiento/frmveCotizacionESE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoRequerimientoE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Reclamo/frmReclamo.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveCotizacion.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoEP.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoI.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoOrden.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveControlEPS.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Seguimiento/frmveGuiaESE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoIS.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoNE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveDocumento.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoCotizacion.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumento.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoR.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveControl.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoDocumentoN.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Seguimiento/frmveControlESE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Seguimiento/frmveOrdenESE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoCotizacionE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Compra/frmcoSolicitud.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Reclamo/frmReclamoE.java</file>
-            <file>file:/C:/Users/Jara%20Resistencias/Desktop/CarpetaKevin/PRACTI/Sisjara/src/sisjara/Movimiento_01/Venta/frmveDocumentoE.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
