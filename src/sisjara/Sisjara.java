@@ -43,6 +43,7 @@ import sisjara.Movimiento_01.Seguimiento.frmveDocumentoES;
 import sisjara.Movimiento_01.Seguimiento.frmveGuiaES;
 import sisjara.Movimiento_01.Seguimiento.frmveRespuesta;
 import sisjara.Movimiento_01.Seguimiento.frmveRespuestaE;
+import sisjara.Movimiento_01.Venta.frmveControl;
 import sisjara.Movimiento_01.Venta.frmveControlEP;
 import sisjara.Movimiento_01.Venta.frmveDocumento;
 /**
@@ -56,7 +57,7 @@ public class Sisjara {
      */
     public static void main(String[] args) {
         /*new frmcoCotizacion().setVisible(true);*/
-         new frmveDocumento().setVisible(true);
+         new frmveControlEP().setVisible(true);
     }
     
 }

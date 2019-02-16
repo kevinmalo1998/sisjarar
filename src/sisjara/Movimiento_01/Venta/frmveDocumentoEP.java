@@ -170,7 +170,6 @@ public class frmveDocumentoEP extends javax.swing.JFrame {
         jTextField17.setEditable(false);
         jPanel2.add(jTextField17, new org.netbeans.lib.awtextra.AbsoluteConstraints(483, 58, 130, -1));
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Item 1", "Item 2", "Item 3", "Item 4" }));
         jPanel2.add(jComboBox1, new org.netbeans.lib.awtextra.AbsoluteConstraints(483, 11, 160, -1));
 
         jTextArea1.setColumns(20);
