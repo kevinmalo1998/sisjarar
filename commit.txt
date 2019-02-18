@@ -1,0 +1,47 @@
+commit 00b846bc74848d741ffffd873be438b12f5e8fd6
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Sat Feb 16 10:41:37 2019 -0500
+
+    Corregi lo de venta
+
+commit 828ba9df51e9d2a6b87be86371518a7d33bd7aa7
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Sat Feb 16 09:23:10 2019 -0500
+
+    Repare totos los datetime y los combo box de SUEGUIMIENTO
+
+commit da58a615e5ffd773c64b1429798e5898ecfd378e
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Sat Feb 16 08:50:35 2019 -0500
+
+    Repare todo los date time y los combobox de REclamo
+
+commit 234821ac5ae8713232d3b2698fb4641786af9199
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Fri Feb 15 15:25:45 2019 -0500
+
+    puse todo los datetime en la carpeta compra
+
+commit 77d8a7837c4ef0220f1e792d32122ccd08bca3af
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Fri Feb 15 12:57:06 2019 -0500
+
+    N o se que se guardo
+
+commit e2787bf624a274d0b714becc2cfca21761331c30
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Thu Feb 14 11:17:50 2019 -0500
+
+    Agrege el datetime en la libreria
+
+commit 6f69b20b2b981051beb9b88ee38ae45472900c9a
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Thu Feb 14 11:00:34 2019 -0500
+
+    Se borro todo las fechas
+
+commit 42efec1fe075ee20dbe6d9965c4019826b0e7b7e
+Author: Cristoba <lobo12981298@gmail.com>
+Date:   Thu Feb 14 10:45:17 2019 -0500
+
+    Proyecto Iniciado
